@@ -2,6 +2,11 @@
 
 A small command-line bank system implemented in C. The project demonstrates basic data structures and operations: a hash-table-backed account store, transaction history stack, a service request queue, and simple loan processing.
 
+## Course Information
+
+- Course Name : Data Structures and its Applications
+- Course Code : UE24CS252A
+
 ## Files
 
 - `helper.h` — Project data structures and function prototypes (accounts, transactions, queue, etc.).
